@@ -1,0 +1,127 @@
+[
+  {
+    "id": "INV-1000",
+    "type": "invoice",
+    "text": "Invoice #INV-1000. Vendor: Anand Textiles. Item: Cotton Fabric, Quantity: 389 units, Unit Price: Rs.586.31, Total Amount: Rs.228074.59. Payment Status: Paid. Issued on 2026-03-13."
+  },
+  {
+    "id": "INV-1001",
+    "type": "invoice",
+    "text": "Invoice #INV-1001. Vendor: Kalpana Threads. Item: Silk Fabric, Quantity: 312 units, Unit Price: Rs.872.75, Total Amount: Rs.272298.0. Payment Status: Paid. Issued on 2026-02-16."
+  },
+  {
+    "id": "INV-1002",
+    "type": "invoice",
+    "text": "Invoice #INV-1002. Vendor: Meera Fabrics. Item: Cotton Fabric, Quantity: 297 units, Unit Price: Rs.437.73, Total Amount: Rs.130005.81. Payment Status: Overdue. Issued on 2026-09-23."
+  },
+  {
+    "id": "INV-1003",
+    "type": "invoice",
+    "text": "Invoice #INV-1003. Vendor: Meera Fabrics. Item: Embroidery Kits, Quantity: 311 units, Unit Price: Rs.592.47, Total Amount: Rs.184258.17. Payment Status: Paid. Issued on 2026-03-23."
+  },
+  {
+    "id": "INV-1004",
+    "type": "invoice",
+    "text": "Invoice #INV-1004. Vendor: Suraj Dyeing Works. Item: Dye - Red, Quantity: 89 units, Unit Price: Rs.469.86, Total Amount: Rs.41817.54. Payment Status: Pending. Issued on 2026-02-12."
+  },
+  {
+    "id": "INV-1005",
+    "type": "invoice",
+    "text": "Invoice #INV-1005. Vendor: Radhika Prints. Item: Silk Fabric, Quantity: 193 units, Unit Price: Rs.1702.61, Total Amount: Rs.328603.73. Payment Status: Overdue. Issued on 2026-05-11."
+  },
+  {
+    "id": "INV-1006",
+    "type": "invoice",
+    "text": "Invoice #INV-1006. Vendor: Radhika Prints. Item: Silk Fabric, Quantity: 482 units, Unit Price: Rs.788.14, Total Amount: Rs.379883.48. Payment Status: Overdue. Issued on 2026-05-21."
+  },
+  {
+    "id": "INV-1007",
+    "type": "invoice",
+    "text": "Invoice #INV-1007. Vendor: Kalpana Threads. Item: Sequin Sheets, Quantity: 370 units, Unit Price: Rs.185.63, Total Amount: Rs.68683.1. Payment Status: Overdue. Issued on 2026-04-19."
+  },
+  {
+    "id": "INV-1008",
+    "type": "invoice",
+    "text": "Invoice #INV-1008. Vendor: Anand Textiles. Item: Sequin Sheets, Quantity: 453 units, Unit Price: Rs.246.95, Total Amount: Rs.111868.35. Payment Status: Pending. Issued on 2026-08-21."
+  },
+  {
+    "id": "INV-1009",
+    "type": "invoice",
+    "text": "Invoice #INV-1009. Vendor: Meera Fabrics. Item: Dye - Blue, Quantity: 191 units, Unit Price: Rs.458.54, Total Amount: Rs.87581.14. Payment Status: Pending. Issued on 2026-02-15."
+  },
+  {
+    "id": "INV-1010",
+    "type": "invoice",
+    "text": "Invoice #INV-1010. Vendor: Kalpana Threads. Item: Sequin Sheets, Quantity: 93 units, Unit Price: Rs.951.41, Total Amount: Rs.88481.13. Payment Status: Pending. Issued on 2026-09-17."
+  },
+  {
+    "id": "INV-1011",
+    "type": "invoice",
+    "text": "Invoice #INV-1011. Vendor: Suraj Dyeing Works. Item: Cotton Fabric, Quantity: 127 units, Unit Price: Rs.1652.52, Total Amount: Rs.209870.04. Payment Status: Pending. Issued on 2026-07-18."
+  },
+  {
+    "id": "INV-1012",
+    "type": "invoice",
+    "text": "Invoice #INV-1012. Vendor: Anand Textiles. Item: Sequin Sheets, Quantity: 477 units, Unit Price: Rs.1888.67, Total Amount: Rs.900895.59. Payment Status: Overdue. Issued on 2026-06-16."
+  },
+  {
+    "id": "INV-1013",
+    "type": "invoice",
+    "text": "Invoice #INV-1013. Vendor: Radhika Prints. Item: Packaging Boxes, Quantity: 462 units, Unit Price: Rs.1833.37, Total Amount: Rs.847016.94. Payment Status: Pending. Issued on 2026-03-18."
+  },
+  {
+    "id": "INV-1014",
+    "type": "invoice",
+    "text": "Invoice #INV-1014. Vendor: Meera Fabrics. Item: Sequin Sheets, Quantity: 391 units, Unit Price: Rs.1144.67, Total Amount: Rs.447565.97. Payment Status: Pending. Issued on 2026-07-28."
+  },
+  {
+    "id": "PO-2000",
+    "type": "purchase_order",
+    "text": "Purchase Order #PO-2000. Vendor: Radhika Prints. Ordered Item: Dye - Blue, Quantity Requested: 244 units. Expected Delivery: within 7 business days. Approved by Operations."
+  },
+  {
+    "id": "PO-2001",
+    "type": "purchase_order",
+    "text": "Purchase Order #PO-2001. Vendor: Meera Fabrics. Ordered Item: Embroidery Kits, Quantity Requested: 113 units. Expected Delivery: within 7 business days. Approved by Operations."
+  },
+  {
+    "id": "PO-2002",
+    "type": "purchase_order",
+    "text": "Purchase Order #PO-2002. Vendor: Anand Textiles. Ordered Item: Silk Fabric, Quantity Requested: 176 units. Expected Delivery: within 7 business days. Approved by Operations."
+  },
+  {
+    "id": "PO-2003",
+    "type": "purchase_order",
+    "text": "Purchase Order #PO-2003. Vendor: Meera Fabrics. Ordered Item: Packaging Boxes, Quantity Requested: 630 units. Expected Delivery: within 7 business days. Approved by Operations."
+  },
+  {
+    "id": "PO-2004",
+    "type": "purchase_order",
+    "text": "Purchase Order #PO-2004. Vendor: Anand Textiles. Ordered Item: Packaging Boxes, Quantity Requested: 410 units. Expected Delivery: within 7 business days. Approved by Operations."
+  },
+  {
+    "id": "PO-2005",
+    "type": "purchase_order",
+    "text": "Purchase Order #PO-2005. Vendor: Kalpana Threads. Ordered Item: Embroidery Kits, Quantity Requested: 561 units. Expected Delivery: within 7 business days. Approved by Operations."
+  },
+  {
+    "id": "PO-2006",
+    "type": "purchase_order",
+    "text": "Purchase Order #PO-2006. Vendor: Suraj Dyeing Works. Ordered Item: Cotton Fabric, Quantity Requested: 716 units. Expected Delivery: within 7 business days. Approved by Operations."
+  },
+  {
+    "id": "PO-2007",
+    "type": "purchase_order",
+    "text": "Purchase Order #PO-2007. Vendor: Anand Textiles. Ordered Item: Dye - Red, Quantity Requested: 807 units. Expected Delivery: within 7 business days. Approved by Operations."
+  },
+  {
+    "id": "PO-2008",
+    "type": "purchase_order",
+    "text": "Purchase Order #PO-2008. Vendor: Suraj Dyeing Works. Ordered Item: Silk Fabric, Quantity Requested: 320 units. Expected Delivery: within 7 business days. Approved by Operations."
+  },
+  {
+    "id": "PO-2009",
+    "type": "purchase_order",
+    "text": "Purchase Order #PO-2009. Vendor: Radhika Prints. Ordered Item: Zari Thread, Quantity Requested: 484 units. Expected Delivery: within 7 business days. Approved by Operations."
+  }
+]
