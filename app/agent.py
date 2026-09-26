@@ -4,9 +4,8 @@ looking up structured inventory data (a 'tool call') or by retrieving and
 reasoning over unstructured documents (RAG).
 
 This is intentionally a simple keyword router rather than a framework
-(LangChain agents, native function-calling) so every decision is visible
-and easy to explain - swap in real tool-calling later once the logic is
-proven out.
+(LangChain agents, native function-calling).
+
 """
 
 from app.inventory import lookup_inventory, INVENTORY
@@ -30,9 +29,11 @@ def _find_item_in_question(question: str) -> str | None:
 
 
 def answer_question(question: str) -> dict:
-    """Top-level entry point used by the API. Routes to a tool call or RAG,
-    and returns both the answer and which path was taken (useful for
-    demoing the routing logic live)."""
+    """
+       Top-level entry point used by the API. Routes to a tool call or RAG,
+       and returns both the answer and which path was taken (useful for
+       demoing the routing logic live).
+    """
 
     if _wants_inventory_lookup(question):
         item = _find_item_in_question(question)
